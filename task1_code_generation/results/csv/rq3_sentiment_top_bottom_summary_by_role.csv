@@ -1,0 +1,9 @@
+model,assignment,cell_group,emotion,personality,passed,total,role,messages,negative_fraction,negative_messages,nonnegative_messages
+llama_3_1_8b,shared54,best,neutral,NNN,56,282,reviewer,704,0.21875,154,550
+llama_3_1_8b,shared54,worst,disgust,HLL,24,282,reviewer,843,0.2099644128113879,177,666
+mistral_small_3_24b_awq,shared54,best,happiness,HHH,101,282,reviewer,666,0.2552552552552553,170,496
+mistral_small_3_24b_awq,shared54,worst,anger,HHL,70,282,reviewer,844,0.2725118483412322,230,614
+qwen2.5-32b-awq,shared54,best,sadness,HHH,124,282,reviewer,657,0.1765601217656012,116,541
+qwen2.5-32b-awq,shared54,worst,sadness,LLL,100,282,reviewer,746,0.18096514745308312,135,611
+qwen2_5_1_5b,shared54,best,fear,LLL,32,282,reviewer,536,0.12126865671641791,65,471
+qwen2_5_1_5b,shared54,worst,anger,LLL,12,282,reviewer,384,0.13020833333333334,50,334

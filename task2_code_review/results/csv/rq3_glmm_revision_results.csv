@@ -1,0 +1,13 @@
+analysis_scope,result_type,effect,comparison,reference,chi_square,df,log_odds_estimate,std_error,z_value,odds_ratio,p_value,q_value_bh,bh_family,note
+Overall,Main effect,Emotion,Overall effect,,2370.89986973947,5,NA,NA,NA,NA,0,0,main_effects,
+Overall,Main effect,Conscientiousness,Overall effect,,765.139653266699,1,NA,NA,NA,NA,2.04898744907325e-168,4.0979748981465e-168,main_effects,
+Overall,Main effect,Openness,Overall effect,,268.214415008857,1,NA,NA,NA,NA,2.7801896167287e-60,3.7069194889716e-60,main_effects,
+Overall,Main effect,Extraversion,Overall effect,,22.7604291050375,1,NA,NA,NA,NA,1.83505554442917e-06,1.83505554442917e-06,main_effects,
+Overall,Emotion contrast,Emotion,Anger vs happiness,Happiness,NA,NA,1.01184732176925,0.036636787360617,27.6183419634917,2.75067771124364,6.7013634871749e-168,1.78703026324664e-167,planned_contrasts,
+Overall,Emotion contrast,Emotion,Disgust vs happiness,Happiness,NA,NA,1.49460749418197,0.039360463990764,37.9723037445057,4.45758658076586,1.65373725109566e-315,1.32298980087653e-314,planned_contrasts,
+Overall,Emotion contrast,Emotion,Fear vs happiness,Happiness,NA,NA,1.33022600234621,0.038312348585346,34.7205548984539,3.78189800881505,3.85760795783978e-264,1.54304318313591e-263,planned_contrasts,
+Overall,Emotion contrast,Emotion,Neutral vs happiness,Happiness,NA,NA,0.399485910596836,0.0345002055779999,11.5792327582993,1.49105796347468,5.25139405335615e-31,6.0015932038356e-31,planned_contrasts,
+Overall,Emotion contrast,Emotion,Sadness vs happiness,Happiness,NA,NA,0.500907526509447,0.0347679160338918,14.4071771808572,1.65021820811243,4.66385950562243e-47,6.21847934082991e-47,planned_contrasts,
+Overall,Trait contrast,Conscientiousness,High vs low,Low,NA,NA,0.603544745509306,0.0219732443076849,27.4672568628486,1.82858920902642,4.32286578706781e-166,8.64573157413563e-166,planned_contrasts,
+Overall,Trait contrast,Openness,High vs low,Low,NA,NA,0.357006415535251,0.0218204590932803,16.3610863551992,1.42904503791328,3.62601288017003e-60,5.80162060827205e-60,planned_contrasts,
+Overall,Trait contrast,Extraversion,High vs low,Low,NA,NA,0.103947680685609,0.0217441728172887,4.78048448009762,1.10954240289917,1.74873258966512e-06,1.74873258966512e-06,planned_contrasts,

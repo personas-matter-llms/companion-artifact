@@ -1,0 +1,5 @@
+model,assignment,mixed_assignments,worst_mixed_assignment,worst_passed,worst_pass_at_1,best_mixed_assignment,best_passed,best_pass_at_1,range_passed,range_pass_at_1
+qwen2_5_1_5b,mixed24,24,HHH_disgust;HHH_disgust;NNN_happiness,22,0.07801418439716312,NNN_happiness;HHH_disgust;LLL_fear,31,0.1099290780141844,9,0.03191489361702128
+llama_3_1_8b,mixed24,24,LLH_happiness;LLH_sadness;NNN_neutral | NNN_neutral;LLH_sadness;LLH_sadness,43,0.1524822695035461,LLH_sadness;LLH_happiness;LLH_happiness,57,0.20212765957446807,14,0.049645390070921974
+mistral_small_3_24b_awq,mixed24,24,LHH_neutral;HHH_happiness;LLH_fear | LHH_neutral;LLH_fear;LHH_neutral,87,0.30851063829787234,HHH_happiness;LLH_fear;LHH_neutral,104,0.36879432624113473,17,0.06028368794326239
+qwen2.5-32b-awq,mixed24,24,LHL_happiness;HHH_sadness;HHH_sadness | LHL_happiness;NNN_fear;HHH_sadness,103,0.36524822695035464,HHH_sadness;HHH_sadness;NNN_fear,127,0.450354609929078,24,0.08510638297872336

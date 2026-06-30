@@ -1,0 +1,6 @@
+[I/O Mode]
+This problem is evaluated as a function or class implementation task.
+Follow the required starter code and interface exactly.
+Do not read from stdin unless the starter code explicitly requires it.
+Do not include demo tests or if __name__ == "__main__" blocks unless the starter code explicitly requires them.
+Do not print demo tests or extra explanatory output.

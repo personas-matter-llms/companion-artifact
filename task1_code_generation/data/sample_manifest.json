@@ -1,0 +1,9 @@
+{
+  "task": "code_generation",
+  "source_dataset": "LiveCodeBench code_generation_lite",
+  "source_population_size": 1055,
+  "sample_size": 282,
+  "seed": 0,
+  "confidence_level": 0.95,
+  "margin_of_error": 0.05
+}

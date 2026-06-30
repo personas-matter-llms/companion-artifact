@@ -1,0 +1,5 @@
+model,baseline_emotion,baseline_personality,source,passed,evaluated,pass_at_1
+qwen2_5_1_5b,neutral,NNN,shared54,21,282,0.07446808510638298
+llama_3_1_8b,neutral,HHL,shared54,49,282,0.17375886524822695
+mistral_small_3_24b_awq,neutral,HHN,self_report_baseline,89,282,0.31560283687943264
+qwen2.5-32b-awq,neutral,HHN,self_report_baseline,122,282,0.4326241134751773

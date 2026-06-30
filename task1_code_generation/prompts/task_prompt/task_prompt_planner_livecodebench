@@ -1,0 +1,12 @@
+Task description:
+- The task is a competitive-programming-style coding problem.
+- The provided task description may include a problem statement, input/output examples, public test cases, and starter code.
+- Additional hidden tests will be used during evaluation.
+- Public examples or visible tests are useful signals, but they are not the full evaluation set.
+- Produce a plan for the Implementer.
+- Do not solve the task in full.
+
+Output format:
+1. Task analysis
+2. Plan description
+Be precise and follow the format exactly.

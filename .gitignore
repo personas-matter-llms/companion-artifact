@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.Rapp.history
+.matplotlib/
+
+logs/
+
+*.zip
+*.tar.gz
+.idea/
+*.iml

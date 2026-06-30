@@ -1,0 +1,5 @@
+model,assignment,configurations,worst_profile,worst_passed,worst_pass_at_1,best_profile,best_passed,best_pass_at_1,range_passed,range_pass_at_1,baseline_passed,baseline_pass_at_1
+qwen2_5_1_5b,shared54,54,anger-LLL,12,0.0425531914893617,fear-LLL; disgust-HHH,32,0.11347517730496454,20,0.07092198581560283,21,0.07446808510638298
+llama_3_1_8b,shared54,54,disgust-HLL; sadness-HLH,24,0.0851063829787234,neutral-NNN,56,0.19858156028368795,32,0.11347517730496455,49,0.17375886524822695
+mistral_small_3_24b_awq,shared54,54,anger-HHL,70,0.24822695035460993,happiness-HHH,101,0.35815602836879434,31,0.10992907801418442,89,0.31560283687943264
+qwen2.5-32b-awq,shared54,54,sadness-LLL,100,0.3546099290780142,sadness-HHH,124,0.4397163120567376,24,0.08510638297872342,122,0.4326241134751773

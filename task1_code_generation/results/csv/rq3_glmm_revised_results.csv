@@ -1,0 +1,13 @@
+analysis_scope,result_type,effect,comparison,reference,chi_square,df,log_odds_estimate,std_error,z_value,odds_ratio,p_value,q_value_bh,bh_family,note
+Overall,Main effect,Emotion,Overall effect,,1569.97358914166,5,NA,NA,NA,NA,0,0,main_effects,
+Overall,Main effect,Conscientiousness,Overall effect,,2273.37766634986,1,NA,NA,NA,NA,0,0,main_effects,
+Overall,Main effect,Openness,Overall effect,,86.7347918486848,1,NA,NA,NA,NA,1.24094410539719e-20,1.65459214052958e-20,main_effects,
+Overall,Main effect,Extraversion,Overall effect,,42.9672801100023,1,NA,NA,NA,NA,5.56630663573454e-11,5.56630663573454e-11,main_effects,
+Overall,Emotion contrast,Emotion,Anger vs happiness,Happiness,NA,NA,0.461765444339001,0.0366251548365427,12.6078769195612,1.58687304951314,1.91071031793033e-36,3.05713650868853e-36,planned_contrasts,
+Overall,Emotion contrast,Emotion,Disgust vs happiness,Happiness,NA,NA,0.465238400852532,0.0366325118668875,12.7001501437598,1.59239377167161,5.90163746956565e-37,1.18032749391313e-36,planned_contrasts,
+Overall,Emotion contrast,Emotion,Fear vs happiness,Happiness,NA,NA,1.37459742707018,0.0397654530215144,34.5676290001393,3.95348483654324,7.74666840986163e-262,3.09866736394465e-261,planned_contrasts,
+Overall,Emotion contrast,Emotion,Neutral vs happiness,Happiness,NA,NA,0.0918442055744701,0.0360225060835786,2.54963398052804,1.09619402785793,0.0107836067111536,0.0107836067111536,planned_contrasts,
+Overall,Emotion contrast,Emotion,Sadness vs happiness,Happiness,NA,NA,0.611912400557914,0.03697307781085,16.5502153672028,1.84395440844457,1.59530948541044e-61,4.25415862776118e-61,planned_contrasts,
+Overall,Trait contrast,Conscientiousness,High vs low,Low,NA,NA,1.03884521746518,0.0223251326914151,46.532543919197,2.8259517696428,0,0,planned_contrasts,
+Overall,Trait contrast,Openness,High vs low,Low,NA,NA,0.202556294514044,0.0217313399125474,9.3209298335576,1.22452901744761,1.1532514211624e-20,1.53766856154987e-20,planned_contrasts,
+Overall,Trait contrast,Extraversion,High vs low,Low,NA,NA,-0.142561669561444,0.0217190527884163,-6.56389903142917,0.867134076865073,5.24187025778289e-11,5.99070886603759e-11,planned_contrasts,

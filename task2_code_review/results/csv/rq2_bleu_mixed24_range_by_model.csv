@@ -1,0 +1,5 @@
+model,assignment,mixed_assignments,worst_mixed_assignment,worst_bleu,best_mixed_assignment,best_bleu,range_bleu
+qwen2_5_1_5b,mixed24,24,HLL_happiness;HLL_neutral;HLL_anger,6.285254199823166,HLL_neutral;HLL_neutral;HLL_happiness,6.695937223695845,0.41068302387267863
+llama_3_1_8b,mixed24,24,LHH_fear;HLL_neutral;LLL_disgust,5.675110079575597,LLL_disgust;HLL_neutral;LHH_fear,6.778149425287356,1.1030393457117595
+mistral_small_3_24b_awq,mixed24,24,LLH_neutral;LLH_anger;LLH_neutral,6.747523872679045,LLH_neutral;LLH_neutral;LLH_anger,7.500315207780726,0.7527913351016808
+qwen2.5-32b-awq,mixed24,24,HLL_fear;LHL_sadness;HLL_fear,7.000214854111406,LHL_sadness;LHL_sadness;HLL_fear,7.746452696728559,0.7462378426171528
